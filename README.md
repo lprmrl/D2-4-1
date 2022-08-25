@@ -1,10 +1,10 @@
 # D2-4-1
 
-Установка Docker
-sudo apt install docker.io
-sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker
+Установка Docker/
+sudo apt install docker.io/
+sudo groupadd docker/
+sudo usermod -aG docker $USER/
+newgrp docker/
 
 Установка minikube start:
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
